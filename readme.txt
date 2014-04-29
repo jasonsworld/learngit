@@ -5,3 +5,8 @@ Git tracks changes of f
 
 Creating a new branch is quit AND sinple.
 bug
+<<<<<<< Updated upstream
+=======
+save
+hello
+>>>>>>> Stashed changes
