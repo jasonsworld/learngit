@@ -10,3 +10,5 @@ bug
 save
 hello
 >>>>>>> Stashed changes
+hello
+
